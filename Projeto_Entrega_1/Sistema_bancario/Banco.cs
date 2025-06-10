@@ -14,7 +14,6 @@ namespace Projeto_Entrega_1.Entrega_1
 
         public string GetNome() { return Nome; }
         public int GetCodigo() { return Codigo; }
-        public List<Conta> GetContas() { return Contas; }
 
         public Banco(string nome, int codigo)
         {

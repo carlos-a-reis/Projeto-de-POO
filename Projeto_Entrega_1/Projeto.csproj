@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entrega_1\Banco.cs" />
-    <Compile Include="Entrega_1\Conta.cs" />
+    <Compile Include="Sistema_Bancario\Banco.cs" />
+    <Compile Include="Sistema_Bancario\Conta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
