@@ -1,0 +1,14 @@
+C:\Users\cacac\Source\Repos\UVV\POO\Projeto\Projeto_Entrega_1\bin\Debug\Projeto_Entrega_1.exe.config
+C:\Users\cacac\Source\Repos\UVV\POO\Projeto\Projeto_Entrega_1\bin\Debug\Projeto_Entrega_1.exe
+C:\Users\cacac\Source\Repos\UVV\POO\Projeto\Projeto_Entrega_1\bin\Debug\Projeto_Entrega_1.pdb
+C:\Users\cacac\Source\Repos\UVV\POO\Projeto\Projeto_Entrega_1\obj\Debug\Projeto_Entrega_1.csproj.AssemblyReference.cache
+C:\Users\cacac\Source\Repos\UVV\POO\Projeto\Projeto_Entrega_1\obj\Debug\Projeto_Entrega_1.csproj.CoreCompileInputs.cache
+C:\Users\cacac\Source\Repos\UVV\POO\Projeto\Projeto_Entrega_1\obj\Debug\Projeto_Entrega_1.exe
+C:\Users\cacac\Source\Repos\UVV\POO\Projeto\Projeto_Entrega_1\obj\Debug\Projeto_Entrega_1.pdb
+C:\Users\cacac\source\repos\POO\Projeto\Projeto_Entrega_1\bin\Debug\Projeto_Entrega_1.exe.config
+C:\Users\cacac\source\repos\POO\Projeto\Projeto_Entrega_1\bin\Debug\Projeto_Entrega_1.exe
+C:\Users\cacac\source\repos\POO\Projeto\Projeto_Entrega_1\bin\Debug\Projeto_Entrega_1.pdb
+C:\Users\cacac\source\repos\POO\Projeto\Projeto_Entrega_1\obj\Debug\Projeto_Entrega_1.csproj.AssemblyReference.cache
+C:\Users\cacac\source\repos\POO\Projeto\Projeto_Entrega_1\obj\Debug\Projeto_Entrega_1.csproj.CoreCompileInputs.cache
+C:\Users\cacac\source\repos\POO\Projeto\Projeto_Entrega_1\obj\Debug\Projeto_Entrega_1.exe
+C:\Users\cacac\source\repos\POO\Projeto\Projeto_Entrega_1\obj\Debug\Projeto_Entrega_1.pdb
