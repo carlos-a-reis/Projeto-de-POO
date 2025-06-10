@@ -13,16 +13,17 @@ namespace Projeto_Entrega_1.Entrega_1
         private string NumeroConta;
         private string NomeTitular;
         private Banco BancoProprietario;
+        private string UltimoSaque = "Ainda não foram realizados saques nesta conta";
+        private string UltimoDeposito = "Ainda não foram realizados depósitos nesta conta";
+        private string UltimaTransferencia = "Ainda não foram realizados transferências nesta conta";
+        
 
-        private string ultimoSaque = "Ainda não foram realizados saques nesta conta";
-        public string UltimoSaque{ get { return ultimoSaque; } }
-        private string ultimoDeposito = "Ainda não foram realizados depósitos nesta conta";
-        public string UltimoDeposito { get { return ultimoDeposito; } }
-        private string ultimaTransferencia = "Ainda não foram realizados transferências nesta conta";
-        public string UltimaTransferencia { get { return ultimaTransferencia; } }
-
+        public string GetUltimoSaque() { return UltimoSaque; } 
+        public string GetUltimoDeposito() { return UltimoDeposito; }
+        public string GetUltimaTransferencia() { return UltimaTransferencia; }
         public string GetNumeroAgencia() { return NumeroAgencia; }
         public string GetNumeroConta() { return NumeroConta; }
+        public double GetSaldoConta() { return Saldo ; }
 
         public Conta(double saldo, string numeroAgencia, string numeroConta, string nomeTitular, Banco bancoProprietario)
         {

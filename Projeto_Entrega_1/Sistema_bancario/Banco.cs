@@ -72,7 +72,7 @@ namespace Projeto_Entrega_1.Entrega_1
             {
                 foreach (var conta in Contas)
                 {
-                    conta.InfoConta();
+                    conta.SaldoConta();
                 }
 
                 return Contas;
